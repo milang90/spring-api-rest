@@ -8,6 +8,6 @@ spring:
     dialect: org.hibernate.dialect.MySQL5Dialect
  datasource:
   driver-class-name: com.mysql.cj.jdbc.Driver
-  url: jdbc:mysql://q57yawiwmnaw13d2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/wmixf21nz935h3fi?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
-  username: rhwnwh330jbhhpd4
-  password: xvgw6s1qpoxjdxo4
+  url: jdbc:mysql://localhost:3306/database_api_spring?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+  username: root
+  password: 
